@@ -1,7 +1,4 @@
-Using pre-set license
-Built from '2021.2/release' branch; Version is '2021.2.0f1 (4bf1ec4b23c9) revision 4977132'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 8066 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\2021.2.0f1\Editor\Unity.exe
